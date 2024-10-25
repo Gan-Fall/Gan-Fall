@@ -2,7 +2,7 @@
 ![Metrics](/github-metrics.svg)
 
 ## Currently Reading
-<img src="/SICP.jpg" width="200" height="400" />
+<img src="/SICP.jpg" width="140" height="140" />
 
 ## Previously Read
-![Clean Code](/CleanCode.jpg)
+<img src="/CleanCode.jpg" width="140" height="140" />
