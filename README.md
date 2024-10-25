@@ -2,7 +2,7 @@
 ![Metrics](/github-metrics.svg)
 
 ## Currently Reading
-![SICP](/SICP.jpg)
+![SICP](/SICP.jpg =250x250)
 
 ## Previously Read
-![Clean Code](/CleanCode.jpg)
+![Clean Code](/CleanCode.jpg =250x250)
